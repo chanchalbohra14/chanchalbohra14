@@ -6,7 +6,7 @@
 
 - 👩‍💻 I’m currently working as a **Freelance Frontend Developer** (Nov 2024 – Present)
 
-- 🌐 All of my projects are available at [My Portfolio](https://chanchal-kumari-portfolio.netlify.app/)
+- 🌐 All of my projects are available at [My Portfolio](https://chanchal-kumari-portfolio.vercel.app/)
 
 - 💬 Ask me about **React.js, Node.js, MongoDB, and JavaScript**
 
